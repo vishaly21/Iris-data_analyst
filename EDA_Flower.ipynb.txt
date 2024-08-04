@@ -11,7 +11,6 @@
     "\n",
     "\n",
     "\n",
-    "#### Dataset :- https://gist.github.com/curran/a08a1080b88344b0c8a7\n",
     "#### Orignally Published at https://archive.ics.uci.edu/ml/datasets/Iris\n",
     "\n",
     "This is iris dataset which contains length of varies parameters of three types of flowers namely setosa, versicolor, and virginia. The dataset contains 3 classes of 50 instances each, where each class is a type of flower.\n",
